@@ -13,7 +13,6 @@ The output includes:
 
 4. JSON + HTML visualization
 
-<p align="center"> <img src="assets/system_diagram.png" width="550" alt="System Diagram"> </p>
 
 ==================================================================================================================================
 How to Run
@@ -77,7 +76,6 @@ Algorithm Workflow
 
 8. Output Generation: Produce JSON, PNG plots, and HTML segment views.
 
-<p align="center"> <img src="assets/msf_diagram.png" width="500" alt="MSF Diagram"> </p>
 
 ==================================================================================================================================
 
